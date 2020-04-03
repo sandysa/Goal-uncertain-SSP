@@ -1,6 +1,7 @@
 # Goal uncertain Stochastic shortest path problem
 
 C++ codebase for "Planning in Stochastic Environments with Goal Uncertainty", published at IROS 2019.
+
 Authors: Sandhya Saisubramanian, Kyle Hollins Wray, Luis Pineda, and Shlomo Zilberstein
 
 Link to paper: https://people.cs.umass.edu/~saisubramanian/GUSSP_iros19_V4.pdf
