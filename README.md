@@ -1,4 +1,4 @@
-# Goal uncertain Stochastic shortest path problem
+# Goal uncertain stochastic shortest path problem
 
 C++ codebase for "Planning in Stochastic Environments with Goal Uncertainty", published at IROS 2019.
 
