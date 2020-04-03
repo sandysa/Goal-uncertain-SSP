@@ -26,6 +26,7 @@ Compilation: make testGussp.out
 To run experiments:
 
 cd scripts
+
 ./runGUSSP.sh
 
 
