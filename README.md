@@ -32,9 +32,9 @@ cd scripts
 
 Misc notes:
 
-Three approach to select goal states for determinization:
-randomly select goals = 0
-select most likely goal (based on current belief) = 1
+Three approaches to select goal states for determinization:
+randomly select goals = 0; 
+select most likely goal (based on current belief) = 1;
 select closest potential goal = 2
 
 
